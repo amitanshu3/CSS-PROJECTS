@@ -1,0 +1,91 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: white;
+    background: url('abs-1850926_1280.jpg');
+    font-family: 'Young Serif', serif;
+}
+.left img{
+    width: 133px;
+    height: 39PX;
+}
+.left{
+     /* border: 2px solid red;*/
+      display: inline-block;
+      margin-top: 0px;
+      margin-left: 5px;
+      position: absolute;
+      top: 12px;
+}
+.mid{
+    /*border: 2px solid green;*/
+    display: block;
+    width: 44%;
+    margin: 29px auto;
+    margin-top: 14px;
+}
+.right{
+    position: absolute ;
+    display: inline-block;
+    right: 7px;
+    top: 4px ;
+/*border: 2px solid blue;*/
+}
+.navbar li{
+display: inline-block;
+}
+.navbar li a{
+color: white;
+text-decoration: none;
+padding: 17px;
+font-size: 19px;
+}
+.navbar li a:hover{
+text-decoration: underline;
+color: grey;
+}
+.btn{
+margin: 14px 27px;
+cursor:pointer 
+
+}
+.btn:hover{
+background-color: grey;
+}
+
+.container2{
+border: 2px solid greenyellow;
+position: absolute;
+right: 0px;
+border-radius: 10px;
+width: 277px;
+height: 391px;
+margin-right: 8px;
+text-align: center;
+
+}
+.c1{
+padding-top: 13px;
+}
+.formgroup input{
+text-align: center;
+display: block;
+width: 254px;
+border: 2px solid black;
+border-radius: 9px;
+height: 54px;
+margin-left: 10px;
+font-family: 'Young Serif', serif;
+}
+.b1{ 
+font-family: 'Young Serif', serif;
+margin-top: 7px;
+width: 254px;
+border-radius: 9px;
+background-color: black;
+color: white;
+
+} 
+.btn{
+font-family: 'Young Serif', serif;
+}
